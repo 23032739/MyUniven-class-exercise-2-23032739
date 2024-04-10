@@ -1,8 +1,7 @@
 
 import java.util.Scanner;
-
 public class Neon8 {
-    public static void main(String[] args) {
+public static void main(String[] args) {
         double A, P, I, N;
         Scanner input = new Scanner(System.in);
         System.out.println("Enter the principal amount:");
